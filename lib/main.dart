@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'screen/home_page.dart';
-//hello small change @Dixit Rangpariya
+//hello small c hange @Dixit Rangpariya
 void main(){
   runApp(MyApp() );
 }
