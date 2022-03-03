@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'screen/home_page.dart';
 //hello small change @Dixit Rangpariya
 void main(){
-  runApp(MyApp());
+  runApp(MyApp() );
 }
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
